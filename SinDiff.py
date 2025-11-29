@@ -1,4 +1,4 @@
-# SinDiff.py – The ultimate binary diffing plugin by Sinn
+# SinDiff.py – The ultimate binary diffing plugin by Sin
 # works on IDA Pro 9.2 forever
 # Author: Sinn
 # GitHub: https://github.com/devilofen/SinDiff
@@ -148,4 +148,5 @@ class SinDiffPlugin(idaapi.plugin_t):
             ida_kernwin.warning("SinDiff → Type 'export' or 'diff'")
 
 def PLUGIN_ENTRY():
+
     return SinDiffPlugin()
