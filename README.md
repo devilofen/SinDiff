@@ -1,6 +1,6 @@
 # SinDiff
 
-**The fastest, cleanest, most reliable binary & patch diffing plugin for IDA Pro 9.x**
+**The fastest, cleanest, most reliable, simplest binary & patch diffing plugin for IDA Pro 9.x**
 
 Tired of waiting 10+ minutes for Diaphora?  
 SinDiff finds patched functions in **seconds** — no bloat, no crashes, no nonsense.
@@ -26,4 +26,4 @@ SinDiff finds patched functions in **seconds** — no bloat, no crashes, no nons
 
 ### Made with love by Sinn
 
-https://github.com/devilofen/SinDiff/blob/main/Screenshots/resualts1.png
+
