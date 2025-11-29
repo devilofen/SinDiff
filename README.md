@@ -24,4 +24,4 @@ SinDiff finds patched functions in **seconds** — no bloat, no crashes, no nons
 ![SinDiff in action](screenshots/results.png)
 
 ### Made with love by Sinn
-Star if you hunt 1-days
+
