@@ -21,7 +21,8 @@ SinDiff finds patched functions in **seconds** — no bloat, no crashes, no nons
 5. → type `diff` → select both files → profit
 
 ### Screenshot
-![SinDiff in action](screenshots/results.png)
+![SinDiff in action](screenshots/results1.png)
+![SinDiff in action](screenshots/resualts2.png)
 
 ### Made with love by Sinn
 
